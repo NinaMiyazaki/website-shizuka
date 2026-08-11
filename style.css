@@ -1,3 +1,7 @@
+body {
+    margin: 0;
+}
+
 .hero-image {
     background-image: url("./images/pouring\ painting.png");
     height: 700px;
@@ -7,6 +11,31 @@
 }
 
 .hero-heading {
-    color: white
-    
+    margin: 0;
+    color: white;
+    font-size: 115px;
+    position: absolute;
+    top: 80px;
+    left: 80px;
+    padding: 0;
 }
+
+.hero-subheading {
+    margin: 0;
+    color: white;
+    font-size: 50px;
+    position: absolute;
+    left: 110px;
+    top: 250px;
+}
+
+.hero-paragraph {
+    margin: 0;
+    color: white;
+    font-size: 30px;
+    position: absolute;
+    left: 110px;
+    top: 350px;
+}
+
+
