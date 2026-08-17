@@ -38,4 +38,15 @@ body {
     top: 350px;
 }
 
+.noise-headings {
+    font-size: 60px;
+    position: absolute;
+    top: 750px;
+    left: 110px;
+}
+
+.waves {
+    width: 800px;
+    height: 450px;
+}
 
