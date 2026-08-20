@@ -45,8 +45,14 @@ body {
     left: 110px;
 }
 
-.waves {
-    width: 800px;
-    height: 450px;
+.video-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 60px;
+    margin: 0 60px;
 }
 
+.noise-videos {
+    width: 100%;
+    aspect-ratio: 16 / 9;
+}
