@@ -45,13 +45,16 @@ body {
     left: 110px;
 }
 
+/* make the gap between the elements above and below the pink noise heading smaller */
+
 .video-grid {
     display: grid;
     grid-template-columns: 1fr 1fr;
     gap: 60px;
-    margin: 0 60px;
+    margin: 265px 60px;
 }
 
+/* possibly make the videos smaller*/
 .noise-videos {
     width: 100%;
     aspect-ratio: 16 / 9;
