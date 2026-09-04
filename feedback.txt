@@ -1,6 +1,5 @@
 Feedback for First Sprint
 
-
 1. Aesthetics – How does it look?
 Contrast – Text is clear and easy to read.
 Alignment – Everything is lined up neatly.
