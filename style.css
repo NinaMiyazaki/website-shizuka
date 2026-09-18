@@ -83,10 +83,16 @@ body {
     justify-content: center;
 }
 
-blockquote {
+.quote-place-size {
     font-size: 50px;
     text-align: center;
     width: 50%;
+}
+
+.second-quote-place-size {
+    font-size: 50px;
+    text-align: center;
+    width: 35%;
 }
 
 .quote-text {
