@@ -40,6 +40,7 @@ body {
 
 .pink-noise-heading {
     font-size: 60px;
+    color: #25293B;
     position: absolute;
     top: 750px;
     left: 110px;
@@ -47,6 +48,7 @@ body {
 
 .green-noise-heading {
     font-size: 60px;
+    color: #25293B;
     position: absolute;
     top: 2065px;
     left: 110px;
@@ -54,6 +56,7 @@ body {
 
 .brown-noise-heading {
     font-size: 60px;
+    color: #25293B;
     position: absolute;
     top: 3380px;
     left: 110px;
@@ -85,12 +88,14 @@ body {
 
 .quote-place-size {
     font-size: 50px;
+    color: #25293B;
     text-align: center;
     width: 50%;
 }
 
 .second-quote-place-size {
     font-size: 50px;
+    color: #25293B;
     text-align: center;
     width: 35%;
 }

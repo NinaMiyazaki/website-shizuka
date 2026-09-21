@@ -77,7 +77,7 @@ Score (0–3): 3
 Feedback: 👍
 
 The colours and placements of your website are very pleasing to the eye. Just switch out your placeholders and then you should be good to go! 
-- Jing Xuan 
+- Xuan Xuan
 
 
 1. Aesthetics – How does it look?
@@ -118,3 +118,116 @@ Final feedback: I really love how your website is looking. The colour scheme and
 - Nehali
 
 
+Feedback for Second Sprint
+
+1. Aesthetics – How does it look?
+Contrast – Text is clear and easy to read.
+Alignment – Everything is lined up neatly.
+Proximity – Related items are close; unrelated items have space.
+Consistency – Same fonts, colours, and styles across pages.
+Balance – Not too crowded or too empty.
+White Space – Enough empty space around text and images.
+Score (0–6): 6
+Feedback: The text is really well set out and is easy to read. Everything is in its own place and is set out well. Maybe you could put what the noise is because if people don’t know what the different kinds of noise are and do then it might be unclear.
+
+2. Functionality – Does it work?
+Links – All links work and go to the right place.
+Navigation – Menus and buttons take you where expected.
+Scrolling – You can scroll without problems.
+Page Load – No errors; all images and text appear.
+Responsive – Works well on a desktop screen.
+Score (0–5): 5
+Feedback: The scrolling works, the videos work, all the text appears.
+
+3. Usability – Is it easy to use?
+Readability – Text is big enough and easy to read.
+Accessibility – Clear headings, alt text for images, good contrast.
+Find Info – Information is easy to find.
+User Friendly – Feels welcoming and clear.
+Score (0–4): 4
+Feedback: The text is easy to read and the website is easy to use. There isn’t alternative text for images so you could put in different fonts. Some more information would be nice such as: what shizuka means, what are these different colours of noise. The colours and pictures are really well used.
+
+4. Bonus Criteria (Optional)
+Purpose – Easy to see what the site is about.
+Engaging – Makes you want to explore more.
+Spelling – No big spelling or grammar mistakes.
+Score (0–3): 3
+Feedback: The site is clearly labelled “sounds to calm your soul”, there are no obvious grammatical mistakes, the use of a different language makes you automatically want to find out more.
+- Ana
+
+
+1. Aesthetics – How does it look?
+Contrast – Text is clear and easy to read.
+Alignment – Everything is lined up neatly.
+Proximity – Related items are close; unrelated items have space.
+Consistency – Same fonts, colours, and styles across pages.
+Balance – Not too crowded or too empty.
+White Space – Enough empty space around text and images.
+Score (0–6): 6
+Feedback:
+The text and the videos are balanced out really nicely and the colour palette you used matches with the hero image which makes the website feel really nice and put together. The font is really easy to read as well and there is no problems with this section
+
+2. Functionality – Does it work?
+Links – All links work and go to the right place.
+Navigation – Menus and buttons take you where expected.
+Scrolling – You can scroll without problems.
+Page Load – No errors; all images and text appear.
+Responsive – Works well on a desktop screen.
+Score (0–5): 5
+Feedback:
+There are no problems here. Everything works really well
+
+3. Usability – Is it easy to use?
+Readability – Text is big enough and easy to read.
+Accessibility – Clear headings, alt text for images, good contrast.
+Find Info – Information is easy to find.
+User Friendly – Feels welcoming and clear.
+Score (0–4): 4
+Feedback:
+The text and headings are clear and it is easy to understand what the website is about. There are no problems here.
+
+4. Bonus Criteria (Optional)
+Purpose – Easy to see what the site is about.
+Engaging – Makes you want to explore more.
+Spelling – No big spelling or grammar mistakes.
+Score (0–3): 3
+Feedback:
+There are no grammar issues and the website feels really calm. I think that there is nothing to improve on here.
+- Nehali
+
+
+1. Aesthetics – How does it look?
+Contrast – Text is clear and easy to read.
+Alignment – Everything is lined up neatly.
+Proximity – Related items are close; unrelated items have space.
+Consistency – Same fonts, colours, and styles across pages.
+Balance – Not too crowded or too empty.
+White Space – Enough empty space around text and images.
+Score (0–6): 6
+Feedback: It looks really neat and is pleasant to look at.
+
+2. Functionality – Does it work?
+Links – All links work and go to the right place.
+Navigation – Menus and buttons take you where expected.
+Scrolling – You can scroll without problems.
+Page Load – No errors; all images and text appear.
+Responsive – Works well on a desktop screen.
+Score (0–5): 5
+Feedback: All videos load quickly and have no problems when playing.
+
+3. Usability – Is it easy to use?
+Readability – Text is big enough and easy to read.
+Accessibility – Clear headings, alt text for images, good contrast.
+Find Info – Information is easy to find.
+User Friendly – Feels welcoming and clear.
+Score (0–4): 4
+Feedback: Everything is clear and easy to read.
+
+
+4. Bonus Criteria (Optional)
+Purpose – Easy to see what the site is about.
+Engaging – Makes you want to explore more.
+Spelling – No big spelling or grammar mistakes.
+Score (0–3): 3
+Feedback: Looks really good! No problems, it’s functional and very aesthetically pleasing.
+- Xuan Xuan
