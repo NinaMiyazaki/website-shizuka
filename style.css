@@ -1,10 +1,11 @@
-@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;0,700;1,200&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400&family=Poppins:ital,wght@0,400;0,700;1,200&display=swap');
 
 body {
     margin: 0;
-    font-family: 'Poppins';
+    font-family: 'Poppins', 'Noto Sans JP';
 }
 
+/* css for hero section */
 .hero-image {
     background-image: url("./images/pouring\ painting.png");
     height: 700px;
@@ -44,15 +45,16 @@ body {
     top: 350px;
 }
 
+/* pink noise header styles and position on website */
 .pink-noise-heading {
     font-size: 60px;
     font-weight: 700;
     color: #25293B;
     position: absolute;
-    top: 750px;
+    top: 738px;
     left: 110px;
 }
-
+/* green noise header styles and position on website */
 .green-noise-heading {
     font-size: 60px;
     font-weight: 700;
@@ -62,6 +64,7 @@ body {
     left: 110px;
 }
 
+/* brown noise header styles and position on website*/
 .brown-noise-heading {
     font-size: 60px;
     font-weight: 700;
@@ -74,6 +77,7 @@ body {
 
 /* make the gap between the elements above and below the pink noise heading smaller */
 
+/* */
 .video-grid {
     display: grid;
     grid-template-columns: 1fr 1fr;
@@ -87,6 +91,7 @@ body {
     aspect-ratio: 16 / 9;
 }
 
+/* */
 .quote {
     background-color: #F3E1DD;
     height: 300px;
@@ -95,6 +100,7 @@ body {
     justify-content: center;
 }
 
+/* */
 .quote-place-size {
     font-size: 50px;
     font-weight: 200;
@@ -118,6 +124,7 @@ body {
     margin-top: 0;
 }
 
+/* */
 .page-footer {
     background-color: #F3E1DD;
     height: 300px;
