@@ -86,6 +86,7 @@ body {
 .noise-videos {
     width: 100%;
     aspect-ratio: 16 / 9;
+    border: none;
 }
 
 /* styles for quote background */
