@@ -54,13 +54,14 @@ body {
     top: 738px;
     left: 110px;
 }
+
 /* green noise header styles and position on website */
 .green-noise-heading {
     font-size: 60px;
     font-weight: 700;
     color: #25293B;
     position: absolute;
-    top: 2065px;
+    top: 2053px;
     left: 110px;
 }
 
@@ -70,14 +71,11 @@ body {
     font-weight: 700;
     color: #25293B;
     position: absolute;
-    top: 3380px;
+    top: 3368px;
     left: 110px;
 }
 
-
-/* make the gap between the elements above and below the pink noise heading smaller */
-
-/* */
+/* video position and size on website */
 .video-grid {
     display: grid;
     grid-template-columns: 1fr 1fr;
@@ -85,13 +83,12 @@ body {
     margin: 265px 60px;
 }
 
-/* possibly make the videos smaller*/
 .noise-videos {
     width: 100%;
     aspect-ratio: 16 / 9;
 }
 
-/* */
+/* styles for quote background */
 .quote {
     background-color: #F3E1DD;
     height: 300px;
@@ -100,7 +97,7 @@ body {
     justify-content: center;
 }
 
-/* */
+/* styles for actual quote text*/
 .quote-place-size {
     font-size: 50px;
     font-weight: 200;
@@ -124,7 +121,7 @@ body {
     margin-top: 0;
 }
 
-/* */
+/* styles for website footer */
 .page-footer {
     background-color: #F3E1DD;
     height: 300px;
